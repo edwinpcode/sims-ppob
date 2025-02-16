@@ -1,6 +1,4 @@
-import React, { FC, HTMLAttributes } from "react";
-import Button from "../button/Button";
-import AccountBalanceWalletIcon from "@mui/icons-material/AccountBalanceWallet";
+import { FC, HTMLAttributes } from "react";
 import { CloseOutlined } from "@mui/icons-material";
 
 interface ModalProps extends HTMLAttributes<HTMLDivElement> {

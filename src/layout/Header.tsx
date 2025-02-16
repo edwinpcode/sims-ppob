@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import Button from "src/shared/button/Button";
-import ButtonSecondary from "src/shared/button/ButtonSecondary";
 import Title from "src/shared/Title";
 
 const Header = () => {

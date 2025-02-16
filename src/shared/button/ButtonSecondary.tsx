@@ -1,5 +1,4 @@
-import React, { ButtonHTMLAttributes, FC } from "react";
-import Button from "./Button";
+import { ButtonHTMLAttributes, FC } from "react";
 import { Link } from "react-router-dom";
 
 interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
